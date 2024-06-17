@@ -27,3 +27,6 @@ Adjust Settings: Use the sliders to adjust the speed and size of the array.
 Start Sorting: Click the "Start Sorting" button to begin the visualization.
 
 Pause/Resume: You can pause and resume the sorting process using the respective buttons.
+
+Deployment link : https://extromile.github.io/Sorting-Visualiser/
+
