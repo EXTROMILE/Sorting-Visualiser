@@ -56,13 +56,13 @@ User-friendly Interface: Easy-to-use interface with intuitive controls.
 
 <b>Select an Algorithm:</b> Choose a sorting algorithm from the drop-down menu.
 
-Generate Array: Click the "Generate New Array" button to create a new random array.
+<b>Generate Array:</b> Click the "Generate New Array" button to create a new random array.
 
-Adjust Settings: Use the sliders to adjust the speed and size of the array.
+<b>Adjust Settings:</b> Use the sliders to adjust the speed and size of the array.
 
-Start Sorting: Click the "Start Sorting" button to begin the visualization.
+<b>Start Sorting:</b> Click the "Start Sorting" button to begin the visualization.
 
-Pause/Resume: You can pause and resume the sorting process using the respective buttons.
+<b>Pause/Resume:</b> You can pause and resume the sorting process using the respective buttons.
 
-<h5>Deployment link :</h5> https://extromile.github.io/Sorting-Visualiser/
+<b>Deployment link :</b> https://extromile.github.io/Sorting-Visualiser/
 
