@@ -54,7 +54,7 @@ User-friendly Interface: Easy-to-use interface with intuitive controls.
 
 <h2>Usage</h2>
 
-Select an Algorithm: Choose a sorting algorithm from the drop-down menu.
+<b>Select an Algorithm:</b> Choose a sorting algorithm from the drop-down menu.
 
 Generate Array: Click the "Generate New Array" button to create a new random array.
 
