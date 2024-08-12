@@ -11,7 +11,7 @@ Developed a dynamic and interactive web application that visualizes various sort
 <h3>Algorithm Implementation:</h3>
 Implemented multiple sorting algorithms, including:
 
-<h4>Bubble Sort:</h4> A simple comparison-based algorithm where adjacent elements are swapped if they are in the wrong order, with each pass through the list pushing the largest unsorted element to its final position.
+<u><h4>Bubble Sort:</h4></u> A simple comparison-based algorithm where adjacent elements are swapped if they are in the wrong order, with each pass through the list pushing the largest unsorted element to its final position.
 
 <h4>Merge Sort:</h4> A divide-and-conquer algorithm that splits the array into smaller sub-arrays, sorts them, and then merges them back together in the correct order.
 
