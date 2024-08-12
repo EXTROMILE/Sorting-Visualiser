@@ -11,11 +11,15 @@ Developed a dynamic and interactive web application that visualizes various sort
 <h3>Algorithm Implementation:</h3>
 Implemented multiple sorting algorithms, including:
 
-<ul><h4>Bubble Sort:</h4></ul> A simple comparison-based algorithm where adjacent elements are swapped if they are in the wrong order, with each pass through the list pushing the largest unsorted element to its final position.
+<h4>Bubble Sort:</h4> A simple comparison-based algorithm where adjacent elements are swapped if they are in the wrong order, with each pass through the list pushing the largest unsorted element to its final position.
 
 <h4>Merge Sort:</h4> A divide-and-conquer algorithm that splits the array into smaller sub-arrays, sorts them, and then merges them back together in the correct order.
 
 <h4>Quick Sort:</h4> An efficient algorithm that picks a pivot element, partitions the array around the pivot, and recursively sorts the sub-arrays.
+
+<h4>Selection Sort:</h4> Selection Sort is a straightforward comparison-based sorting algorithm. The idea is to divide the array into a sorted and an unsorted part.
+
+<h4>Insertion Sort:</h4> The algorithm iterates over the array, repeatedly picking the next element and inserting it into its correct position among the previously sorted elements.
 
 <h4>Dynamic Visualization:</h4> Created a visual representation of the sorting process, where users can see the elements being sorted in real-time. The visualizer highlights the elements being compared, swapped, or merged, providing an educational tool for understanding these algorithms.
 
